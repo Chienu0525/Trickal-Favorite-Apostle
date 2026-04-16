@@ -161,7 +161,6 @@ function SelectionModal({ slot, onSelect, onClose }) {
           placeholder="사도 이름 검색..."
           value={search}
           onChange={e => setSearch(e.target.value)}
-          autoFocus
         />
 
         <ApostleList>
