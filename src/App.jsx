@@ -38,6 +38,12 @@ const Title = styled.h1`
   letter-spacing: 0;
 `
 
+const Footer = styled.footer`
+  margin-top: 24px;
+  font-size: 0.75rem;
+  color: rgba(0, 0, 0, 0.7);
+`
+
 const SaveButton = styled.button`
   margin-top: 24px;
   padding: 12px 36px;
@@ -97,6 +103,8 @@ function App() {
       />
 
       <SaveButton onClick={handleSave}>이미지로 저장</SaveButton>
+
+      <Footer>All images copyright EPIDGames.</Footer>
 
       {activeSlot && (
         <SelectionModal
