@@ -38,8 +38,9 @@ export const RACE_COLORS = {
 
 // 프로토타입용 샘플 데이터 — 실제 JSON/이미지로 교체 예정
 export const apostles = [
-  { id: 'uros',    name: '우로스', personality: '공명', race: '미스틱', skillIcon: null },
+  { id: 'uros',    name: '우로스', personality: '공명', race: '수인', skillIcon: null },
   { id: 'erpin',   name: '에르핀', personality: '순수', race: '요정',   skillIcon: null },
+  { id: 'vivi',    name: '비비',   personality: '순수', race: '용족',   skillIcon: '/images/icons/Vivi_GraduateSkill.webp'},
   { id: 'apl-광1', name: '사도A',  personality: '광기', race: '수인',   skillIcon: null },
   { id: 'apl-광2', name: '사도B',  personality: '광기', race: '마녀',   skillIcon: null },
   { id: 'apl-냉1', name: '사도C',  personality: '냉정', race: '엘프',   skillIcon: null },

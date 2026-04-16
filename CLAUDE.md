@@ -8,10 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 개발 명령어
 
-프로젝트 루트는 `trickal-favorite/` 하위 디렉터리입니다. 모든 명령어는 그 안에서 실행하세요.
-
 ```bash
-cd trickal-favorite
 npm run dev      # 개발 서버 실행 (Vite HMR)
 npm run build    # 프로덕션 빌드
 npm run preview  # 빌드 결과물 미리보기
