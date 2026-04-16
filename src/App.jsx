@@ -6,7 +6,10 @@ import SelectionModal from './components/SelectionModal'
 
 const PageWrapper = styled.div`
   min-height: 100vh;
-  background: linear-gradient(150deg, #fce4f8 0%, #ede8ff 50%, #e4f0ff 100%);
+  background-color: #C6DC89;
+  background-image: url('/images/background/PLobbySettingPattern.png');
+  background-repeat: repeat;
+  background-size: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -14,13 +17,25 @@ const PageWrapper = styled.div`
   box-sizing: border-box;
 `
 
+const TitleBox = styled.div`
+  background: #77B247;
+  border: 3px solid #fff;
+  border-radius: 20px;
+  padding: 12px 48px;
+  margin-bottom: 24px;
+  width: 100%;
+  max-width: 440px;
+  box-sizing: border-box;
+`
+
 const Title = styled.h1`
+  font-family: 'CookieRun', sans-serif;
   font-size: 1.4rem;
-  font-weight: 800;
-  color: #6b3a9a;
-  margin: 0 0 28px;
+  font-weight: 700;
+  color: #F6FA78;
+  margin: 0;
   text-align: center;
-  letter-spacing: -0.3px;
+  letter-spacing: 0;
 `
 
 const SaveButton = styled.button`
@@ -71,7 +86,9 @@ function App() {
 
   return (
     <PageWrapper>
-      <Title>트릭컬 최애 사도 표 메이커</Title>
+      <TitleBox>
+        <Title>트릭컬 최애 사도 표 메이커</Title>
+      </TitleBox>
 
       <ApostleGrid
         gridRef={gridRef}

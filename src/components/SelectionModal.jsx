@@ -60,8 +60,10 @@ const SearchInput = styled.input`
   border: 1.5px solid #e0d8f0;
   border-radius: 20px;
   font-size: 0.88rem;
+  font-family: inherit;
   outline: none;
   color: #4a3060;
+  background: #fff;
 
   &:focus {
     border-color: #c084f5;
