@@ -86,7 +86,7 @@ export const apostles = [
   { id: 'Jade',         name: '제이드',          personality: '냉정', race: '용족', skillIcon: '/images/icons/Icon_GraduateSkill_Jade.webp' },
   { id: 'Joanne',       name: '죠안',            personality: '우울', race: '요정', skillIcon: '/images/icons/Icon_GraduateSkill_Joanne.webp' },
   { id: 'Jubee',        name: '쥬비',            personality: '활발', race: '정령', skillIcon: '/images/icons/Icon_GraduateSkill_Jubee.webp' },
-  { id: 'Kathy',        name: '캐시',            personality: '순수', race: '유령', skillIcon: '/images/icons/Icon_GraduateSkill_Kathy.webp' },
+  { id: 'Kathy',        name: '캐시',            personality: '순수', race: '엘프', skillIcon: '/images/icons/Icon_GraduateSkill_Kathy.webp' },
   { id: 'Kidian',       name: '키디언',          personality: '우울', race: '용족', skillIcon: '/images/icons/Icon_GraduateSkill_Kidian.webp' },
   { id: 'Kommy',        name: '코미',            personality: '우울', race: '수인', skillIcon: '/images/icons/Icon_GraduateSkill_Kommy.webp' },
   { id: 'KommySwim',    name: '코미(수영복)',    personality: '냉정', race: '수인', skillIcon: '/images/icons/Icon_GraduateSkill_KommySwim.webp' },
