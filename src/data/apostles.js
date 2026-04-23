@@ -41,6 +41,7 @@ export const apostles = [
   { id: 'Allet',        name: '알레트',         personality: '순수', race: '엘프', skillIcon: '/images/icons/Icon_GraduateSkill_Allet.webp' },
   { id: 'Amelia',       name: '아멜리아',       personality: '냉정', race: '엘프', skillIcon: '/images/icons/Icon_GraduateSkill_Amelia.webp' },
   { id: 'AmeliaR41',    name: '아멜리아(R41)',  personality: '우울', race: '엘프', skillIcon: '/images/icons/Icon_GraduateSkill_AmeliaR41.webp' },
+  { id: 'Aragnia',      name: '아라그니아',     personality: '냉정', race: '용족', skillIcon: '/images/icons/Icon_GraduateSkill_Aragnia.webp' },
   { id: 'Arco',         name: '아르코',         personality: '활발', race: '정령', skillIcon: '/images/icons/Icon_GraduateSkill_Arco.webp' },
   { id: 'Arnet',        name: '아네트',         personality: '광기', race: '용족', skillIcon: '/images/icons/Icon_GraduateSkill_Arnet.webp' },
   { id: 'Asana',        name: '아사나',         personality: '우울', race: '마녀', skillIcon: '/images/icons/Icon_GraduateSkill_Asana.webp' },
