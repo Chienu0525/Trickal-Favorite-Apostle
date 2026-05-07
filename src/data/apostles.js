@@ -98,6 +98,7 @@ export const apostles = [
   { id: 'Leets',        name: '리츠',            personality: '광기', race: '용족', skillIcon: '/images/icons/Icon_GraduateSkill_Leets.webp' },
   { id: 'Lethe',        name: '레테',            personality: '냉정', race: '유령', skillIcon: '/images/icons/Icon_GraduateSkill_Lethe.webp' },
   { id: 'Levi',         name: '레비',            personality: '우울', race: '마녀', skillIcon: '/images/icons/Icon_GraduateSkill_Levi.webp' },
+  { id: 'LeviGraduate', name: '레비(졸업)',      personality: '활발', race: '마녀', skillIcon: '/images/icons/Icon_GraduateSkill_LeviGraduate.webp' },
   { id: 'Lion',         name: '리온',            personality: '우울', race: '수인', skillIcon: '/images/icons/Icon_GraduateSkill_Lion.webp' },
   { id: 'MaestroMK2',   name: '마에스트로 2호',  personality: '광기', race: '엘프', skillIcon: '/images/icons/Icon_GraduateSkill_MaestroMK2.webp' },
   { id: 'Mago',         name: '마고',            personality: '순수', race: '수인', skillIcon: '/images/icons/Icon_GraduateSkill_Mago.webp' },
